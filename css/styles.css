@@ -28,6 +28,7 @@ h1{
     background: transparent;
     font-family: 'IBM Plex Sans', sans-serif;
     text-decoration: none;
+    color: #000;
 }
 
 .btn--secondary{
@@ -39,7 +40,6 @@ h1{
     text-decoration: underline;
     text-underline-offset: 3px;
     padding-bottom: 1px;
-    color: #000;
 }
 
 /* List */
@@ -55,7 +55,7 @@ h1{
     font-size: 1.6rem;
 }
 
-.list--link li{
+.list--link a{
     margin-right: 3rem;
 }
 
@@ -98,6 +98,7 @@ h1{
 .items{
     height: 1700px;
     background: #1D1D1D;
+    margin-top: 10.5rem;
 }
 
 .items-content{
@@ -125,6 +126,10 @@ h1{
 
 .items__heading{
     margin-top: 1.6rem;
+}
+
+.items__block > img{
+    margin-top: 4rem;
 }
 
 .items-description{
