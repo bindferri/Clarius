@@ -136,15 +136,21 @@ h1{
 
 /* Footer */
 
-.footer__content{
-    justify-content: space-between;
-    margin-top: 8.1rem;
+.footer{
+    background: #ffffff;
 }
 
 .footer-container{
     width: 1140px;
+    height: 330px;
     margin: 0 auto;
 }
+
+.footer__content{
+    justify-content: space-between;
+    padding-top: 8.1rem;
+}
+
 
 .footer__copyright{
     font-size: 1.6rem;
@@ -154,5 +160,6 @@ h1{
 .footer-bottom{
     display: flex;
     justify-content: space-between;
+    margin-top: 5.7rem;
 }
 
