@@ -94,6 +94,10 @@ h1{
     background: #1D1D1D;
 }
 
+.items-content{
+    margin-top: 3rem;
+}
+
 .items-header{
     display: flex;
     justify-content: space-between;
@@ -110,11 +114,17 @@ h1{
     margin-top: 0;
     color: #ffffff;
     margin-bottom: 1px;
+    font-weight: 400;
+}
+
+.items__heading{
+    margin-top: 1.6rem;
 }
 
 .items-description{
     font-size: 1.5rem;
     margin-top: 6px;
     color: #ffffff;
+    opacity: 0.7;
 }
 
