@@ -9,6 +9,7 @@ html{
 body{
     margin: 0;
     font-family: 'IBM Plex Sans', sans-serif;
+    background: #E5E5E5;
 }
 
 /* Headings */
@@ -23,16 +24,19 @@ h1{
 .btn{
     font-size: 1.6rem;
     border: none;
-    text-decoration: underline;
-    text-underline-offset: 3px;
     background: transparent;
-    padding-bottom: 1px;
     font-family: 'IBM Plex Sans', sans-serif;
 }
 
 .btn--secondary{
     color: #ffffff;
     text-decoration-color: #ffffff;
+}
+
+.btn--active{
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    padding-bottom: 1px;
 }
 
 /* List */
@@ -57,5 +61,16 @@ h1{
     line-height: 3.2rem;
 }
 
+                /* Homepage */
+
+/* Navbar */
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    height: 9.6rem;
+    align-items: center;
+    margin: 0 5rem;
+}
 
 
