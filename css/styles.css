@@ -186,5 +186,22 @@ h1{
 
 /* Single Header */
 
+.single-heading{
+    height: 18rem;
+    padding-left: 15rem;
+}
 
+.heading__heading{
+    font-size: 3.5rem;
+    margin-top: 0;
+    margin-bottom: 1.3rem;
+}
 
+.heading__description{
+    font-size: 1.6rem;
+    margin: 0;
+}
+
+.heading-center{
+    padding-top: 5rem;
+}
