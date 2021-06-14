@@ -264,6 +264,8 @@ h1{
     margin-top: 4rem;
 }
 
+/* Pagination */
+
 .pagination{
     margin: 0 auto;
     width: 1136px;
@@ -284,4 +286,67 @@ h1{
 
 .pagination__next{
     margin-left: 1rem;
+}
+
+                /* Single Page 2 */
+
+/* Picture */
+
+.single2-image > img{
+    margin: 5rem;
+}
+
+.single-margin{
+    margin: 4rem;
+}
+
+.single2-content{
+    display: flex;
+}
+
+.single__content-side{
+    font-size: 1.6rem;
+    line-height: 2.5rem;
+    text-align: end;
+    width: 18rem;
+    position: relative;
+    top: 4rem;
+    right: 5rem;
+}
+
+.single__content-side p {
+    margin: 0;
+}
+
+.single-text__content{
+    position: relative;
+    right: 23rem;
+}
+
+.single-list{
+    font-size: 1.8rem;
+    line-height: 3rem;
+}
+
+.single-list__p{
+    margin-top: 2.5rem;
+}
+
+.single-main__heading{
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-top: 0;
+}
+
+.single-main{
+    margin-top: 7.2rem;
+}
+
+.single-container{
+    width: 1094px;
+    margin-left: 15.1rem;
+}
+
+.single-text__margin{
+    margin-left: 16.5rem;
 }
