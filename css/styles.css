@@ -350,3 +350,76 @@ h1{
 .single-text__margin{
     margin-left: 16.5rem;
 }
+
+                /* ABOUT PAGE */
+
+.about-navigation{
+    margin: 0 0 0 15rem;
+    height: 11.8rem;
+    align-items: center;
+}
+
+.about-navigation > img {
+    margin: 0 1.3rem;
+}
+
+.about-image{
+    width: 1300px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.about__bigfont{
+    font-size: 2.8rem;
+    padding-left: 2.8rem;
+}
+
+.about__heading{
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+.about-container{
+    width: 53.5rem;
+    margin: 0 auto;
+}
+
+.about-container__margin{
+    margin-top: 10.8rem;
+}
+
+.about-logo{
+    margin-bottom: 4rem;
+}
+
+.clients{
+    margin-bottom: 4rem;
+}
+
+.clients__p{
+    font-size: 1.6rem;
+    font-weight: 500;
+}
+
+.about-list{
+    font-size: 1.6rem;
+    line-height: 2.5rem;
+}
+
+.about-list__p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.about-list-container{
+    width: 70rem;
+}
+
+.clients__p-list{
+    margin-left: 11.5rem;
+}
+
+.about-list--container{
+    margin-top: 5.6rem;
+    margin-bottom: 9.6rem;
+}
