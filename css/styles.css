@@ -386,6 +386,8 @@ h1{
 
 .about-container__margin{
     margin-top: 10.8rem;
+    margin-bottom: 10rem;
+    padding-left: 6rem;
 }
 
 .about-logo{
@@ -413,13 +415,19 @@ h1{
 
 .about-list-container{
     width: 70rem;
+    position: relative;
+    left: 40rem;
 }
 
 .clients__p-list{
     margin-left: 11.5rem;
+    position: relative;
+    left: 40rem;
 }
 
 .about-list--container{
     margin-top: 5.6rem;
     margin-bottom: 9.6rem;
 }
+
+
